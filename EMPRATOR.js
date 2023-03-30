@@ -8,7 +8,7 @@ EMPRATOR.on("ready", () => {
   );
   let statuses = [
   
-  `STREAMING BY DEV RAYAN | KP UP`,
+  `Xera`,
  
   ];
   setInterval(function() {
@@ -21,9 +21,9 @@ EMPRATOR.on("ready", () => {
 });
 //===============EMPRATOR============//
 EMPRATOR.on("ready", () => {
-    var join = EMPRATOR.channels.get(""); /// id voice
+    var join = EMPRATOR.channels.get("1076413187978698792"); /// id voice
     if (join) join.join();
   });
 //===============EMPRATOR============// 
-EMPRATOR.login("");/////TOKEN DANE
+EMPRATOR.login("OTIyMDc5NjE3Nzc3NTMyOTQ4.GFAxyg.1ucgVSX7Xid26diD9wo4tSYJyIlDpK-RSaiR_c");/////TOKEN DANE
 //===============EMPRATOR============//
